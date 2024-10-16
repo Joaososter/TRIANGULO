@@ -4,7 +4,7 @@ Este projeto tem como objetivo implementar uma classe de utilidades em Java, con
 
 🚀 Começando
 
-Crie um projeto no com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
+Crie um projeto com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
 
 Soma(int, int) que retorna a soma dos parâmetros;
 
